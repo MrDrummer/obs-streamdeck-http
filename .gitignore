@@ -86,3 +86,11 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+
+.vscode
+
+dist
+
+secrets.json
+*.secrets.json
